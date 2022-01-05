@@ -1,0 +1,7 @@
+Epoch 00001: loss improved from inf to 2.58212, saving model to ../model\best.hdf5
+21650/21650 [==============================] - 662s 29ms/step - loss: 2.5821 - accuracy: 0.2776 - val_loss: 3.0268 - val_accuracy: 0.2459
+Epoch 2/25
+21648/21650 [============================>.] - ETA: 0s - loss: 2.2040 - accuracy: 0.3900
+Epoch 00002: loss improved from 2.58212 to 2.20396, saving model to ../model\best.hdf5
+21650/21650 [==============================] - 681s 31ms/step - loss: 2.2040 - accuracy: 0.3900 - val_loss: 2.9556 - val_accuracy: 0.2803
+Epoch 3/25
